@@ -1,4 +1,4 @@
-package hwCv5;
+package hw04;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.when;

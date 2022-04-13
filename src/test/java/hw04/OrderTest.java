@@ -1,4 +1,4 @@
-package hwCv5;
+package hw04;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

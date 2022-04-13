@@ -1,4 +1,4 @@
-package hwCv5;
+package hw04;
 
 import shop.Item;
 
