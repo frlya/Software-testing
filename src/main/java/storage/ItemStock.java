@@ -35,4 +35,8 @@ public class ItemStock {
     Item getItem() {
         return refItem;
     }
+
+  public void setCount(int i) {
+      this.count = i;
+  }
 }

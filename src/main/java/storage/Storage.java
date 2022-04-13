@@ -180,6 +180,9 @@ public class Storage {
             }
         }
     }
-    
-    
+
+
+  public void setItemCount(int id, int i) {
+      stock.get(id).setCount(i);
+  }
 }

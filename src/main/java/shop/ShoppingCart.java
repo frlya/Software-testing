@@ -69,12 +69,9 @@ public class ShoppingCart {
         }
         return total;
     }
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+  public boolean containsItem(Item storageItem) {
+      return items.contains(storageItem);
+  }
 }
